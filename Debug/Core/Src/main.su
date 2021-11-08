@@ -1,0 +1,13 @@
+main.c:56:6:FLASH_EEPROM_Write	32	static
+main.c:75:6:FLASH_EEPROM_Write_BYTES	32	static
+main.c:97:10:FLASH_EEPROM_Read	16	static
+main.c:123:6:MSR_MSP	16	static,ignoring_inline_asm
+main.c:131:6:iap_load_app	16	static
+stdio.h:214:5:fputc	24	static
+main.c:158:6:HAL_UART_RxCpltCallback	16	static
+main.c:188:5:main	40	static
+main.c:270:6:SystemClock_Config	88	static
+main.c:318:13:MX_RTC_Init	16	static
+main.c:375:13:MX_USART1_UART_Init	8	static
+main.c:408:13:MX_GPIO_Init	40	static
+main.c:476:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,3 @@
+flash.c:22:6:FlashWriteNoCheck	32	static
+flash.c:35:6:FlashWriteBuff	1072	static
+flash.c:93:6:FlashReadBuff	40	static
